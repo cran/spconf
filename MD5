@@ -1,0 +1,17 @@
+bcb4665eab9655e22869ad6334f447a8 *DESCRIPTION
+e2cccdc0c25a6af9aa325db2494b3b26 *NAMESPACE
+9ecbe0886741539a1be27b8a1621d68d *R/functions_range.R
+b3963e56a5fb185c76f8c4c2052aa646 *R/functions_tprs.R
+e5029acc0f5b5b04dac232866cc8b385 *R/spconf.R
+6be352128d954e52fddf72da042ec83b *README.md
+f61db891eb928123aba4412ca322f508 *build/partial.rdb
+dd699869e32bb37c33440703fd803d3c *man/computeS.Rd
+0bef0fa6d447599edf1a163f9ad0ce87 *man/computeTPRS.Rd
+1184499bcc1631677f925fdf1ad9c0cf *man/compute_effective_range.Rd
+c45f1649e04241280abe88d994619438 *man/compute_lowCurve.Rd
+b880614b8e56079d4eb4363036502198 *man/find_first_zero_cross.Rd
+3945ba7ca3d3b83542cf5f958e06ae66 *man/find_zeros_cross.Rd
+3c3710e25baebb8371eb8eac5a7fd7c0 *man/fitLoess.Rd
+6797039867e7ca018ec3ec61ed59a584 *man/spconf-package.Rd
+e768e345933905797da96d1d6bf3c6f0 *tests/testthat.R
+412912f2bd2a18295cd4a51b73da79f8 *tests/testthat/test-computeS.R
